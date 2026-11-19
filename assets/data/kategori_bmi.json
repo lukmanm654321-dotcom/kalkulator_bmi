@@ -1,0 +1,26 @@
+[
+  {
+    "nama": "Kurus",
+    "batasMin": 0,
+    "batasMax": 18.5,
+    "saran": "Tingkatkan asupan kalori dan protein bergizi, serta lakukan latihan kekuatan secara teratur."
+  },
+  {
+    "nama": "Normal",
+    "batasMin": 18.5,
+    "batasMax": 25,
+    "saran": "Pertahankan pola makan seimbang dan olahraga rutin minimal 150 menit per minggu."
+  },
+  {
+    "nama": "Gemuk",
+    "batasMin": 25,
+    "batasMax": 30,
+    "saran": "Kurangi makanan tinggi gula dan lemak, perbanyak aktivitas fisik seperti jalan cepat atau berenang."
+  },
+  {
+    "nama": "Obesitas",
+    "batasMin": 30,
+    "batasMax": 100,
+    "saran": "Atur pola makan dengan bertahap, tingkatkan aktivitas fisik, dan konsultasikan dengan tenaga kesehatan."
+  }
+]
